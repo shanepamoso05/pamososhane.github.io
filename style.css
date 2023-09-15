@@ -7,7 +7,9 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: #212121;
+    background-image: url(images/background.png);
+    background-size: cover;
+    background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
